@@ -1,0 +1,36 @@
+
+#contact {
+    text-align: left;
+    background: linear-gradient(180deg, var(--brand-beige-light)30%, var(--primary-color)60%);
+}
+
+#contact h2 {
+    font-size: 3rem;
+    line-height: 3.9rem;
+    color: var(--secondary-color);
+    width: 29.7rem;
+    margin-bottom: 3.2rem;
+}
+
+#contact .content .address {
+    display: flex;
+    gap: .8rem;
+    color: var(----paragraph);
+}
+
+#contact .content .email {
+    display: flex;
+    gap: .8rem;
+    color: var(----paragraph);
+}
+
+#contact header img {
+    width: 32.4rem;
+    height: 21.3rem;
+    filter: contrast(1.1);
+    filter: brightness(1);
+}
+
+#contact .content button {
+    margin-left: 0;
+}
